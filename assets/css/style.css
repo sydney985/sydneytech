@@ -224,8 +224,7 @@ body.active {
 }
 
 .btn-secondary:is(:hover, :focus) {
-  --raw-seinna: hsl(293, 85%, 35%);
-  color: #e3dce4;
+  --raw-seinna: hsl(320, 74%, 64%);
 }
 
 .section-subtitle {
